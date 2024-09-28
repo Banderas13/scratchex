@@ -1,1 +1,1 @@
-#Scratch projects for SyntraPXL - Full Stack
+# Scratch projects for SyntraPXL - Full Stack
